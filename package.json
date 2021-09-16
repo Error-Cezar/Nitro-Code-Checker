@@ -1,0 +1,26 @@
+{
+  "name": "nitro-checker",
+  "version": "1.0.0",
+  "description": "A discord nitro code checker",
+  "main": "Checker.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node nitro"
+  },
+  "repository": {
+    "type": "git",
+    "url": "none for now"
+  },
+  "keywords": [
+    "discord-nitro",
+    "nitro-generator",
+    "nitro-checker",
+    "discord"
+  ],
+  "author": "Error-Cezar",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "node-fetch": "^2.6.1"
+  }
+}
